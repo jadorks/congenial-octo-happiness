@@ -242,9 +242,9 @@ h6:last-child,
 }
 
 p {
-  font-size: 14px;
+  font-size: 16px;
   margin-bottom: 1rem;
-  color: #6a7894;
+  color: #000000;
 }
 
 p:last-child {
@@ -288,7 +288,7 @@ a:hover,
 a:focus,
 a:active {
   outline: 0;
-  color: #f1af63;
+  color: #2d2b68;
 }
 
 img {
@@ -3584,7 +3584,7 @@ hr {
 
 .background-shape:before,
 .background-shape:after {
-  background: rgba(231, 140, 136, 0.2);
+  background: #fff4e933;
   position: absolute;
   height: 100%;
   width: 100%;
@@ -5659,12 +5659,12 @@ hr {
 
 .link-primary:hover,
 .link-primary:focus {
-  color: #f1af63 !important;
+  color: #2d2b68 !important;
 }
 
 .link-primary:hover .link-icon.icon-circle,
 .link-primary:focus .link-icon.icon-circle {
-  background: #f1af63;
+  background: #2d2b68;
 }
 
 .link-light {
@@ -9252,7 +9252,7 @@ ul.progress-info {
 }
 
 .social li a:hover .social-icon {
-  background: #f1af63;
+  background: #2d2b68;
   color: #fff;
 }
 
@@ -11112,7 +11112,7 @@ hr + .nk-block {
 }
 
 .cpn-text p {
-  color: inherit !important;
+  color: #000000 !important;
   font-size: inherit !important;
 }
 
@@ -14002,7 +14002,7 @@ hr + .nk-block {
   font-weight: 700;
   font-size: 0.81rem;
   position: relative;
-  color: #8ca2e5;
+  color: #2d2b68;
   line-height: 25px;
 }
 
@@ -18718,7 +18718,7 @@ hr + .nk-block {
 }
 
 .header-navbar-overlay {
-  background: rgba(22, 11, 109, 0.7);
+  background: rgba(45, 43, 104, 0.7);
   left: 100%;
   width: 0;
   z-index: -1;
