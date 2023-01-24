@@ -18820,7 +18820,7 @@ hr + .nk-block {
 }
 
 .logo img {
-  height: 140px;
+  height: 100px;
   transition: all 0.4s;
 }
 
@@ -18854,7 +18854,7 @@ hr + .nk-block {
     min-height: 98px;
   }
   .logo img {
-    height: 180px;
+    height: 120px;
   }
   .logo-md img {
     height: 50px;
@@ -19529,10 +19529,10 @@ hr + .nk-block {
 
 @media (min-width: 992px) and (max-width: 1199px) {
   .logo img {
-    height: 160px;
+    height: 120px;
   }
   .header-navbar-s1 .menu > .menu-item > a {
-    padding: 20px 4px;
+    padding: 20px 8px;
     font-size: 12px;
     font-weight: 500;
   }
